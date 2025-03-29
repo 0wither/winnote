@@ -15,7 +15,7 @@ você podera deixar senhas ou não.
 
 ter uma calcuradora cute e personalizavel
 
-mini joguinhos
+mini joguinhos como jogo da velha
 
 deixar minusculo icone flutante dando algumas opção, tera um chat igual do omelet para conversar sem sair do jogo,e quando uma notficação chegar ele ficara com um ponto, com esse icone vc podera deixar opcão de copiar suas senhas também.
 
